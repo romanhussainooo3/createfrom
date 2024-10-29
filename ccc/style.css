@@ -1,0 +1,77 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    width: 100px;
+    width: auto;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    text-transform: uppercase;
+}
+img{
+    width: 100px;
+    margin: 40px auto 0;
+  
+}
+.login{
+    width: 600px;
+    height: 650px;
+    background: rgb(107, 101, 101);
+    margin: 40px auto 0;
+    border-radius: 14px;
+
+}
+.loginform{
+    width: 6000px;
+}
+.avater{
+    width: 600px;
+    text-align: center;
+}
+.avater img{
+    width: 150px;
+    height: 150px;
+border-radius: 100px;
+border: 3px solid rgb(255, 0, 0);
+}
+.avater h1{
+    font-size: 26px;
+    line-height: 30px;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
+.formbox{
+    width: 200px;
+    margin: 10px ;
+}
+.formbox label{
+    font-size: 16px;
+    font-weight: 100;
+    font-family: 100px, Geneva, Tahoma, sans-serif;
+
+}
+.formbox .form-control{
+    width: 565px;
+    padding: 5px;
+    border-radius: 10px;
+    border: 23px black;
+    font-size: 16px;
+    font-weight: 300;
+}
+.btn-primary{
+    width: 60px;
+    padding: 6px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border: 2px solid rgb(245, 7, 51);
+}
+.btn-primary:hover{
+   cursor: pointer;
+    background-color: rgb(40, 13, 241);
+}
